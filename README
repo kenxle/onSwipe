@@ -1,0 +1,8 @@
+This is my first use of node.js. Please excuse an unusual patterns. 
+
+usage:
+node rss_to_json.js bossip.com/?feed=fulltext
+
+URL must be included on the command line. 
+
+Please do not include "http://" in your URL. 
